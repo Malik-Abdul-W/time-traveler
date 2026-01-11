@@ -1,0 +1,8 @@
+
+{
+  "name": "Chronos Booth: Time-Traveler's Mirror",
+  "description": "A high-end time-traveling photo booth that uses Gemini AI to analyze your portrait and place you into immersive historical and future eras. Includes real-time AI image editing and deep portrait analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
